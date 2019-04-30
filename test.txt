@@ -1,0 +1,32 @@
+#materials 2
+#lights 1
+#objects 2
+
+material
+ambient   0.5 0.5 0.5
+diffuse   1 0 0
+specular  1 1 1
+shininess 10
+
+material
+ambient   0.5 0.5 0.5
+diffuse   0 1 0
+specular  1 0 1
+shininess 10
+
+light
+color    1 0.7 0.7
+position -10 10 10
+
+triangle
+vertex   2 -1 6
+vertex   -2 -1 -6
+vertex   0 2 -8
+material 0
+
+sphere
+center   0 -1 -4
+radius   2
+material 1
+
+
