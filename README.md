@@ -1,6 +1,6 @@
-# ray-tracing using c++
+## ray-tracing using c++
 
-# Installation Instructions
+## Installation Instructions
 
 1. Clone the repository
 2. navigate to the folder where the repository is cloned, type make in the home directory
