@@ -1,4 +1,5 @@
-## ray-tracing using c++
+## ray-tracing
+An implementation of simple ray tracing algorithm in c++ using opengl
 
 ## Installation Instructions
 
